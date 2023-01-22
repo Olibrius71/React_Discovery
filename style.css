@@ -1,0 +1,17 @@
+body {
+    background-color: yellowgreen;
+}
+
+#main-container {
+    width: 80%;
+    height: 40vh;
+    background-color: yellow;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.react-elements {
+    flex-grow: 1;
+}
